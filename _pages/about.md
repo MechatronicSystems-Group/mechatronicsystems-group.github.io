@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <p href='#'>University of Cape Town</p>. Address. Contacts. Moto. Etc.
+subtitle: <p [University of Cape Town](https://uct.ac.za/) Department of Mechanical Engineering Contacts. Moto. Etc. </p>
 
 profile:
   align: right
@@ -11,7 +11,8 @@ profile:
   address: >
     <p>Duncan McMillan Laboratory</p>
     <p>217 Library Road, Rondebosch</p>
-    <p>Cape Town, 7701, South Africa</p>
+    <p>Cape Town, 7701</p>
+    <p>South Africa</p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts

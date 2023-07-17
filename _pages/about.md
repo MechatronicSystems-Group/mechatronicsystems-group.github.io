@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>University of Cape Town</a>. Address. Contacts. Moto. Etc.
+subtitle: <p href='#'>University of Cape Town</p>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right

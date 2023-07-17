@@ -6,10 +6,10 @@ subtitle: <a href="https://uct.ac.za/">University of Cape Town</a>, <a href="htt
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: uctLogo.png
   image_circular: false # crops the image to make it circular
   address: >
-    <p>MechatronicSystems.group</p>
+    <p>MechatronicSystems.Lab</p>
     <p>@ Duncan McMillan Laboratory</p>
     <p>217 Library Road, Rondebosch</p>
     <p>Cape Town, 7701</p>

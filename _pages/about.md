@@ -1,7 +1,7 @@
 ---
 layout: about
 title: about
-permalink: /
+permalink: /about/
 subtitle: [University of Cape Town](https://uct.ac.za/), [Department of Mechanical Engineering](https://ebe.uct.ac.za/departments-departmental-overview/department-mechanical-engineering), phone number
 
 profile:

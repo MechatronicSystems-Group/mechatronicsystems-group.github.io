@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: [University of Cape Town](https://uct.ac.za/), [Department of Mechanical Engineering](https://ebe.uct.ac.za/departments-departmental-overview/department-mechanical-engineering), phone number
+subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right

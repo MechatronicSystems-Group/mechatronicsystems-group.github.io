@@ -2,22 +2,25 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: [University of Cape Town](https://uct.ac.za/), [Department of Mechanical Engineering](https://ebe.uct.ac.za/departments-departmental-overview/department-mechanical-engineering), phone number
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Duncan McMillan Laboratory</p>
+    <p>217 Library Road, Rondebosch</p>
+    <p>Cape Town, 7701, South Africa</p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
+The Mechatronic Systems Group is a collaborative and interdisciplinary team focused on the field of mechatronics. Mechatronics combines mechanical engineering, electrical engineering, and computer science to design and develop intelligent systems and products.
+
+The group's primary objective is to research, innovate, and advance mechatronic systems in various applications. They work on integrating mechanical components, electronics, control systems, and software to create intelligent and autonomous systems. These systems often involve the use of sensors, actuators, microcontrollers, and software algorithms to achieve specific functionalities and improve overall performance.
 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 

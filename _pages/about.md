@@ -2,14 +2,15 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href="https://uct.ac.za/">University of Cape Town</a>, <a href="https://ebe.uct.ac.za/departments-departmental-overview/department-mechanical-engineering">Department of Mechanical Engineering</a> Contacts.
+subtitle: <a href="https://uct.ac.za/">University of Cape Town</a>, <a href="https://ebe.uct.ac.za/departments-departmental-overview/department-mechanical-engineering">Department of Mechanical Engineering</a>
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Duncan McMillan Laboratory</p>
+    <p>MechatronicSystems.group</p>
+    <p>@ Duncan McMillan Laboratory</p>
     <p>217 Library Road, Rondebosch</p>
     <p>Cape Town, 7701</p>
     <p>South Africa</p>

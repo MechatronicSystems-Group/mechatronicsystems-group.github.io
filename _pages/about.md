@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <p> [University of Cape Town](https://uct.ac.za/) Department of Mechanical Engineering Contacts. Moto. Etc. </p>
+subtitle: <a href="https://uct.ac.za/">University of Cape Town</a> Department of Mechanical Engineering Contacts. Moto. Etc.
 
 profile:
   align: right

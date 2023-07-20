@@ -12,24 +12,24 @@ layout: default
     <!-- Display supervisors -->
     {% if site.data.members.supervisors %}
     <div class="supervisors">
-      <h2>Supervisors</h2>
-      <div class="members-list">
+    <h2>Supervisors</h2>
+    <div class="members-list">
         {% for supervisor in site.data.members.supervisors %}
-          {% include members/member.html member=supervisor %}
+        {% include members/member.html member=supervisor %}
         {% endfor %}
-      </div>
+    </div>
     </div>
     {% endif %}
 
     <!-- Display Masters Students -->
     {% if site.data.members.students %}
     <div class="students">
-      <h2>Masters Students</h2>
-      <div class="members-list">
+    <h2>Masters Students</h2>
+    <div class="members-list">
         {% for student in site.data.members.students %}
-          {% include members/member.html member=student %}
+        {% include members/member.html member=student %}
         {% endfor %}
-      </div>
+    </div>
     </div>
     {% endif %}
   </article>

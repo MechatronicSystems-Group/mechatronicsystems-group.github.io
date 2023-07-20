@@ -125,14 +125,14 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 blog_name: MechatronicSystems.Blog # blog_name will be displayed in your blog page
 blog_nav_title:
 blog_description: Robotics, Mechatronics, Control Systems, and Sensor Fusion
-permalink: /blog/:year/:title/
+permalink: #/blog/:year/:title/
 
 # Pagination
 pagination:
   enabled: true
 
 related_blog_posts:
-  enabled: true
+  enabled: false
   max_related: 5
 
 # Giscus comments (RECOMMENDED)

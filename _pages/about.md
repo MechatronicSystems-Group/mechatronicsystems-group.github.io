@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <a href="https://uct.ac.za/">University of Cape Town</a> | <a href="https://ebe.uct.ac.za/departments-departmental-overview/department-mechanical-engineering">Department of Mechanical Engineering</a>
 

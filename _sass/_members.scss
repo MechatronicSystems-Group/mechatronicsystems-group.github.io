@@ -1,0 +1,37 @@
+body {
+    background-color: black;
+    color: blue;
+    font-family: Arial, sans-serif;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+h1, h2 {
+    color: blue;
+}
+
+.header {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.supervisors, .students {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+.member {
+    background-color: #f0f0f0;
+    padding: 20px;
+    border-radius: 5px;
+    width: 30%;
+}
+
+.member img {
+    display: block;
+    width: 100%;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}

@@ -1,0 +1,25 @@
+# Add your member data in the following format:
+
+supervisors:
+  - name: Supervisor 1 Name
+    role: Supervisor
+    contact: supervisor1@example.com
+    research_areas: Area A, Area B
+    image: supervisor1.jpg
+
+  - name: Supervisor 2 Name
+    role: Supervisor
+    contact: supervisor2@example.com
+    research_areas: Area C, Area D
+    image: supervisor2.jpg
+
+students:
+  - name: Student 1 Name
+    role: Masters Student
+    contact: student1@example.com
+    research_areas: Area X, Area Y
+
+  - name: Student 2 Name
+    role: Masters Student
+    contact: student2@example.com
+    research_areas: Area Y, Area Z

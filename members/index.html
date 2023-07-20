@@ -1,0 +1,19 @@
+---
+layout: default
+---
+
+<h1>Group Members</h1>
+
+<div class="supervisors">
+  <h2>Supervisors</h2>
+  {% for member in site.members.supervisors %}
+  {% include member.html %}
+  {% endfor %}
+</div>
+
+<div class="students">
+  <h2>Masters Students</h2>
+  {% for member in site.members.students %}
+  {% include member.html %}
+  {% endfor %}
+</div>

@@ -1,0 +1,13 @@
+---
+layout: default
+---
+
+<div class="member">
+  {% if member.image %}
+  <img src="{{ member.image }}" alt="{{ member.name }}">
+  {% endif %}
+  <h2><a href="{{ member.role | downcase }}-{{ member.name | downcase | replace: ' ', '-' }}.html">{{ member.name }}</a></h2>
+  <p>Role: {{ member.role }}</p>
+  <p>Contact: {{ member.contact }}</p>
+  <p>Research Areas: {{ member.research_areas }}</p>
+</div>

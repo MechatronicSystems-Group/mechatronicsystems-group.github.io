@@ -5,7 +5,7 @@ supervisors:
     role: Supervisor
     contact: supervisor1@example.com
     research_areas: Area A, Area B
-    image: supervisor1.jpg
+    image: uctLogo.png
 
   - name: Supervisor 2 Name
     role: Supervisor

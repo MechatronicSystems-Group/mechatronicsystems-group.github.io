@@ -1,20 +1,10 @@
 ---
 layout: members
 permalink: /members/
-title: members
-description: "Our team members:"
+title: Members
+description: "Our group members:"
 nav: true
-nav_order: 0
+nav_order: 4
 ---
 
-## Supervisors
-
-{% for member in site.members.supervisors %}
-{% include member.html %}
-{% endfor %}
-
-## Masters Students
-
-{% for member in site.members.students %}
-{% include member.html %}
-{% endfor %}
+<!-- Empty page content; the layout will handle the display -->

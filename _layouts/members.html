@@ -2,12 +2,35 @@
 layout: default
 ---
 
-<div class="member">
-  {% if member.image %}
-  <img src="{{ member.image }}" alt="{{ member.name }}">
-  {% endif %}
-  <h2><a href="{{ member.role | downcase }}-{{ member.name | downcase | replace: ' ', '-' }}.html">{{ member.name }}</a></h2>
-  <p>Role: {{ member.role }}</p>
-  <p>Contact: {{ member.contact }}</p>
-  <p>Research Areas: {{ member.research_areas }}</p>
+<div class="members">
+  <header class="members-header">
+    <h1 class="members-title">{{ page.title }}</h1>
+    <p class="members-desc">{{ page.description }}</p>
+  </header>
+
+  <article>
+    <!-- Display supervisors -->
+    {% if site.data.members.supervisors %}
+    <div class="supervisors">
+      <h2>Supervisors</h2>
+      <div class="members-list">
+        {% for supervisor in site.data.members.supervisors %}
+          {% include members/member.html member=supervisor %}
+        {% endfor %}
+      </div>
+    </div>
+    {% endif %}
+
+    <!-- Display Masters Students -->
+    {% if site.data.members.students %}
+    <div class="students">
+      <h2>Masters Students</h2>
+      <div class="members-list">
+        {% for student in site.data.members.students %}
+          {% include members/member.html member=student %}
+        {% endfor %}
+      </div>
+    </div>
+    {% endif %}
+  </article>
 </div>

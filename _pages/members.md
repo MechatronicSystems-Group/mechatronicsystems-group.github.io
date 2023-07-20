@@ -15,11 +15,11 @@ nav_order: 0
 <div class="members-container">
   <div class="supervisors">
     <div class="member">
-      <img src="supervisor1.jpg" alt="Supervisor 1 Name">
-      <h2><a href="https://www.example.com/supervisor1">Supervisor 1 Name</a></h2>
+      <img src="uctLogo.png" alt="James Hepworth">
+      <h2><a href="https://www.example.com/supervisor1">James Hepworth</a></h2>
       <p>Role: Supervisor</p>
-      <p>Contact: supervisor1@example.com</p>
-      <p>Research Areas: Area A, Area B</p>
+      <p>Contact: James.Hepworth@uct.ac.za</p>
+      <p>Research Areas: Embedded Systems, Mechatronics</p>
     </div>
     <div class="member">
       <img src="supervisor2.jpg" alt="Supervisor 2 Name">

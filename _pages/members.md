@@ -17,14 +17,22 @@ nav_order: 0
     <div class="member">
       <img src="/assets/img/uctLogo.png" alt="James Hepworth">
       <h2><a href="https://www.example.com/supervisor1">James Hepworth</a></h2>
-      <p>Role: Supervisor</p>
+      <p>PhD</p>
       <p>Contact: James.Hepworth@uct.ac.za</p>
       <p>Research Areas: Embedded Systems, Mechatronics</p>
     </div>
     <div class="member">
-      <img src="supervisor2.jpg" alt="Supervisor 2 Name">
-      <h2><a href="https://www.example.com/supervisor2">Supervisor 2 Name</a></h2>
-      <p>Role: Supervisor</p>
+      <img src="/assets/img/uctLogo.png" alt="Arnold Pretorius">
+      <h2><a href="https://www.example.com/supervisor2">Arnold Pretorius</a></h2>
+      <p>PhD</p>
+      <p>Contact: supervisor2@example.com</p>
+      <p>Research Areas: Area C, Area D</p>
+    </div>
+    <!-- Add more supervisors here -->
+    <div class="member">
+      <img src="/assets/img/uctLogo.png" alt="Leanne Raw">
+      <h2><a href="https://www.example.com/supervisor2">Leanne Raw</a></h2>
+      <p>PhD</p>
       <p>Contact: supervisor2@example.com</p>
       <p>Research Areas: Area C, Area D</p>
     </div>
@@ -38,15 +46,15 @@ nav_order: 0
   <div class="students">
     <div class="member">
       <h2><a href="https://www.example.com/student1">Student 1 Name</a></h2>
-      <p>Role: Masters Student</p>
+      <p>Msc (in progress)</p>
       <p>Contact: student1@example.com</p>
-      <p>Research Areas: Area X, Area Y</p>
+      <p>Research Areas: Pose Estimation</p>
     </div>
     <div class="member">
       <h2><a href="https://www.example.com/student2">Student 2 Name</a></h2>
-      <p>Role: Masters Student</p>
+      <p>Msc (in progress)</p>
       <p>Contact: student2@example.com</p>
-      <p>Research Areas: Area Y, Area Z</p>
+      <p>Research Areas: Embedded Systems</p>
     </div>
     <!-- Add more students here -->
   </div>

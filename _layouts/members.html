@@ -1,36 +1,65 @@
----
-layout: default
----
+<!DOCTYPE html>
+<html lang="{{ site.lang }}">
 
-<div class="members">
-  <header class="members-header">
-    <h1 class="members-title">{{ page.title }}</h1>
-    <p class="members-desc">{{ page.description }}</p>
-  </header>
+  <!-- Head -->
+  <head>
+  {%- if page.redirect -%}
+    <meta http-equiv="refresh" content="3; url={{ site.baseurl }}/" />
+  {%- endif -%}
+  {% include head.html %}
 
-  <article>
-    <!-- Display supervisors -->
-    {% if site.data.members.supervisors %}
-    <div class="supervisors">
-    <h2>Supervisors</h2>
-    <div class="members-list">
-        {% for supervisor in site.data.members.supervisors %}
-        {% include members/member.html member=supervisor %}
-        {% endfor %}
-    </div>
-    </div>
-    {% endif %}
+  <link rel="stylesheet" href="{{ '/assets/css/members.css' | relative_url }}">
 
-    <!-- Display Masters Students -->
-    {% if site.data.members.students %}
-    <div class="students">
-    <h2>Masters Students</h2>
-    <div class="members-list">
-        {% for student in site.data.members.students %}
-        {% include members/member.html member=student %}
-        {% endfor %}
+  </head>
+
+  <!-- Body -->
+  <body class="{% if site.navbar_fixed %}fixed-top-nav{% endif %} {% unless site.footer_fixed %}sticky-bottom-footer{% endunless %}">
+
+    <!-- Header -->
+    {%- include header.html %}
+
+    <!-- Content -->
+    <div class="container mt-5">
+      {% if page.toc and page.toc.sidebar %}
+        {% if page.toc.sidebar == "right" %}
+        <div class="row">
+          <!-- main content area -->
+          <div class="col-sm-9">
+            {{ content }}
+          </div>
+          <!-- sidebar, which will move to the top on a small screen -->
+          <div class="col-sm-3">
+            <nav id="toc-sidebar" class="sticky-top"></nav>
+          </div>
+        </div>
+        {% else %}
+        <div class="row">
+          <!-- sidebar, which will move to the top on a small screen -->
+          <div class="col-sm-3">
+            <nav id="toc-sidebar" class="sticky-top"></nav>
+          </div>
+          <!-- main content area -->
+          <div class="col-sm-9">
+            {{ content }}
+          </div>
+        </div>
+        {% endif %}
+      {% else %}
+        {{ content }}
+      {% endif %}
     </div>
-    </div>
-    {% endif %}
-  </article>
-</div>
+
+    <!-- Footer -->
+    {%- include footer.html %}
+
+    <!-- JavaScripts -->
+    {% include scripts/jquery.html %}
+    {% include scripts/bootstrap.html %}
+    {% include scripts/masonry.html %}
+    {% include scripts/misc.html %}
+    {% include scripts/badges.html %}
+    {% include scripts/mathjax.html %}
+    {% include scripts/analytics.html %}
+    {% include scripts/progressBar.html %}
+  </body>
+</html>

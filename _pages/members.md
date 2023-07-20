@@ -2,7 +2,7 @@
 layout: members
 permalink: /members/
 title: Members
-description: "Our group members:"
+description: "Our Team members:"
 nav: true
 nav_order: 4
 ---

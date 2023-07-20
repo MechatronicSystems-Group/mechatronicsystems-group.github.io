@@ -1,5 +1,5 @@
 ---
-layout: pages
+layout: default
 permalink: /members/
 title: Members
 description: "Our Team members:"

@@ -1,10 +1,10 @@
 ---
 layout: members
 permalink: /members/
-title: Members
+title: members
 description: "Our Team members:"
 nav: true
-nav_order: 4
+nav_order: 0
 ---
 
 <!-- Empty page content; the layout will handle the display -->

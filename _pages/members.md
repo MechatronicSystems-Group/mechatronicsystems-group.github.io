@@ -15,7 +15,7 @@ nav_order: 0
 <div class="members-container">
   <div class="supervisors">
     <div class="member">
-      <img src="assets/img/uctLogo.png" alt="James Hepworth">
+      <img src="/assets/img/uctLogo.png" alt="James Hepworth">
       <h2><a href="https://www.example.com/supervisor1">James Hepworth</a></h2>
       <p>Role: Supervisor</p>
       <p>Contact: James.Hepworth@uct.ac.za</p>

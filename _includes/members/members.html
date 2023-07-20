@@ -1,10 +1,9 @@
-<div class="member">
-    {% if member.image %}
-    <img src="{{ member.image }}" alt="{{ member.name }}">
-    {% endif %}
-    <h2><a href="{{ member.role | downcase }}-{{ member.name | downcase | replace: ' ', '-' }}.html">{{ member.name }}</a></h2>
-    <p>Role: {{ member.role }}</p>
-    <p>Contact: {{ member.contact }}</p>
-    <p>Research Areas: {{ member.research_areas }}</p>
-  </div>
-  
+<div class="members">
+  {% if member.image %}
+  <img src="{{ members.image }}" alt="{{ members.name }}">
+  {% endif %}
+  <h2><a href="{{ members.role | downcase }}-{{ members.name | downcase | replace: ' ', '-' }}.html">{{ members.name }}</a></h2>
+  <p>Role: {{ members.role }}</p>
+  <p>Contact: {{ members.contact }}</p>
+  <p>Research Areas: {{ members.research_areas }}</p>
+</div>

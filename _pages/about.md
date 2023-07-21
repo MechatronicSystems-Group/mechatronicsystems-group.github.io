@@ -25,5 +25,5 @@ The MechatronicSystems.Group primary objective is to research, innovate, and adv
 Our current projects include researching and developing solutions that are unique to our environment and context, such as:
 - Researching and implementing pose estimation techniques.
 - Modelling, design and system identification of a low-cost quadcopter and flight controller.
-- Sesnor design for the Antarctic environment.
+- Sensor design for the Antarctic environment.
 

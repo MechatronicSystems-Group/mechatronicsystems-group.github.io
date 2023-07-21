@@ -16,7 +16,7 @@ nav_order: 0
   <div class="supervisors">
     <div class="member">
       <img src="/assets/img/supervisors/JamesHepworth.png" alt="James Hepworth">
-      <h2><a href="https://ebe.uct.ac.za/department-mechanical-engineering/contacts/james-hepworth">James Hepworth</a></h2>
+      <h2><a href="https://ebe.uct.ac.za/department-mechanical-engineering/contacts/james-hepworth">James<br>Hepworth</a></h2>
       <p>Lecturer</p>
       <p>Email: James.Hepworth@uct.ac.za</p>
       <!-- Change this part to use unordered list -->
@@ -28,7 +28,7 @@ nav_order: 0
     </div>
     <div class="member">
       <img src="/assets/img/supervisors/ArnoldPretorius.png" alt="Arnold Pretorius">
-      <h2><a href="https://ebe.uct.ac.za/department-mechanical-engineering/contacts/arnold-pretorius">Arnold Pretorius</a></h2>
+      <h2><a href="https://ebe.uct.ac.za/department-mechanical-engineering/contacts/arnold-pretorius">Arnold<br>Pretorius</a></h2>
       <p>Lecturer</p>
       <p>Email: arnold.pretorius@uct.ac.za</p>
       <!-- Change this part to use unordered list -->
@@ -40,9 +40,8 @@ nav_order: 0
     </div>
     <div class="member">
       <img src="/assets/img/supervisors/LeanneRaw.png" alt="Leanne Raw">
-      <h2><a href="https://ebe.uct.ac.za/department-mechanical-engineering/contacts/leanne-raw">Leanne Raw</a></h2>
-      <p><br>
-      Lecturer</p>
+      <h2><a href="https://ebe.uct.ac.za/department-mechanical-engineering/contacts/leanne-raw">Leanne<br>Raw</a></h2>
+      <p>Lecturer</p>
       <p>Email: leanne.raw@uct.ac.za</p>
       <!-- Change this part to use unordered list -->
       <ul>

@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   address: >
     <p>MechatronicSystems.Lab</p>
-    <p>@ Duncan MacMillan Laboratory</p>
+    <p>@ Duncan MacMillan Building</p>
     <p>217 Library Road, Rondebosch</p>
     <p>Cape Town, 7701</p>
     <p>South Africa</p>

@@ -18,7 +18,7 @@ nav_order: 0
       <img src="/assets/img/supervisors/JamesHepworth.png" alt="James Hepworth">
       <h2><a href="https://ebe.uct.ac.za/department-mechanical-engineering/contacts/james-hepworth">James<br>Hepworth</a></h2>
       <p>Lecturer</p>
-      <p>Email: James.Hepworth@uct.ac.za</p>
+      <p>Email: <a href="mailto:James.Hepworth@uct.ac.za">James.Hepworth@uct.ac.za</a></p>
       <!-- Change this part to use unordered list -->
       <ul>
         <li>Embedded Systems</li>
@@ -30,7 +30,7 @@ nav_order: 0
       <img src="/assets/img/supervisors/ArnoldPretorius.png" alt="Arnold Pretorius">
       <h2><a href="https://ebe.uct.ac.za/department-mechanical-engineering/contacts/arnold-pretorius">Arnold<br>Pretorius</a></h2>
       <p>Lecturer</p>
-      <p>Email: arnold.pretorius@uct.ac.za</p>
+      <p>Email: <a href="mailto:arnold.pretorius@uct.ac.za">arnold.pretorius@uct.ac.za</a></p>
       <!-- Change this part to use unordered list -->
       <ul>
         <li>Control Engineering</li>
@@ -42,7 +42,7 @@ nav_order: 0
       <img src="/assets/img/supervisors/LeanneRaw.png" alt="Leanne Raw">
       <h2><a href="https://ebe.uct.ac.za/department-mechanical-engineering/contacts/leanne-raw">Leanne<br>Raw</a></h2>
       <p>Lecturer</p>
-      <p>Email: leanne.raw@uct.ac.za</p>
+      <p>Email: <a href="mailto:leanne.raw@uct.ac.za">leanne.raw@uct.ac.za</a></p>
       <!-- Change this part to use unordered list -->
       <ul>
         <li>Bio-inspired Engineering</li>

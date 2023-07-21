@@ -55,10 +55,10 @@ nav_order: 0
   </div>
 </div>
 
+---
 
-
-<!-- PhD Students section -->
-## PhD Students
+<!-- PhD Postgraduates section -->
+## PhD Postgraduates
 
 <div class="members-container">
   <div class="PhD">
@@ -67,6 +67,7 @@ nav_order: 0
       <p>PhD (in progress)</p>
       <p>Research Areeas: </p>
     </div>
+    <!-- add more -->
     <div class="member">
       <h2>Student 2 Name</h2>
       <p>PhD (in progress)</p>
@@ -75,9 +76,10 @@ nav_order: 0
   </div>
 </div>
 
+---
 
-<!-- Masters Students section -->
-## Masters Students
+<!-- Masters Postgraduates section -->
+## Masters postgraduates
 
 <div class="members-container">
   <div class="Msc">
@@ -86,11 +88,15 @@ nav_order: 0
       <p>Msc (in progress)</p>
       <p>Research Areas: Pose Estimation</p>
     </div>
+    <!-- add more -->
     <div class="member">
       <h2>Student 2 Name</h2>
       <p>Msc (in progress)</p>
       <p>Research Areas: Embedded Systems</p>
     </div>
-    <!-- Add more students here -->
   </div>
 </div>
+
+---
+
+<!-- Alumni's section -->

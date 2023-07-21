@@ -2,10 +2,10 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: A growing collection of our cool projects.
 nav: true
 nav_order: 2
-display_categories: [Doctorate, Masters, VAC Work, work, fun]
+display_categories: [Masters, VAC Work]
 horizontal: false
 ---
 

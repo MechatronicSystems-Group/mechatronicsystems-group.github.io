@@ -6,9 +6,9 @@ menu:
 - {name: 'contact', url: '/contact'}
 
 people:
-- {name: 'Primary Investigator', title: 'Researcher', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/primary-investigator.jpg', url: 'primary-investigator'}
-- {name: 'Lab Technician', title: 'Researcher', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/lab-technician.jpg', url: 'lab-technician'}
-- {name: 'Graduate Student', title: 'Researcher', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/graduate-student.jpg', url: 'graduate-student'}
+- {name: 'Arnold Pretorius', title: 'Researcher - Control Engineering, State Estimation, Robotics', department: 'Mechanical Engineering, institution: 'UCT', phone: '', email: 'arnold.pretorius@uct.ac.za', office: 'R215.2 EM Building, UCT', image: 'assets/img/Arnold.png', url: 'arnold-pretorius'}
+- {name: 'Leanne Raw', title: 'Researcher - Robotics', department: 'Mechanical Engineering, institution: 'UCT', phone: '', email: 'leanne.raw@uct.ac.za', office: 'R212 EM Building, UCT', image: 'assets/img/Leanne.png', url: 'leanne-raw'}
+- {name: 'Arnold Pretorius', title: 'Researcher - Embedded Systems, Instrumentation', department: 'Mechanical Engineering, institution: 'UCT', phone: '+27 21 650 4810', email: 'james.hepworth@uct.ac.za', office: 'R215.3 EM Building, UCT', image: 'assets/img/James.png', url: 'james-hepworth'}
 
 courses:
 - {name: 'Vector Calculus', url: 'vector-calculus'}

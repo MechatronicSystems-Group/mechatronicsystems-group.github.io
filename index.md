@@ -3,6 +3,4 @@ layout: home
 title: "Home"
 ---
 
-This theme allows an academic person to showcase their research interests, publications, research group, curriculum vitae, any courses that they may be teaching, or anything else they may want to put out into the world.
-
-Academics can use this home page to describe their research interests, display their latest publications, or provide an introduction to their research group.
+Our group is focuses on the study and development of innovative solutions that integrate mechanical engineering, electronics, control systems, and computer science. We aim to design and create robust solution and processes that enhance efficiency and productivity. Our research areas include robotics, instrumentaion, embedded systems, and optimisation. We focus on real-world applications in industries such as aerial robotics, manufacturing, and climate science.

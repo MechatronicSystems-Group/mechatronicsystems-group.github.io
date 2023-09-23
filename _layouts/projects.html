@@ -1,0 +1,21 @@
+---
+layout: default
+---
+
+<h3 class="fw-bold pb-3 mb-5">Projects</h3>
+
+{{ content }}
+<br><br>
+
+{% for project in site.data.settings.projects %}
+<div class="row g-5 mb-5">
+  <div class="col-md-6">
+    <div class="col-md-6">
+      <p><a href="{{ site.github.url }}/projects/{{ project.url}}">{{ project.name }}</a></p>
+    </div>
+  </div>
+  <div class="col-md-6" style="text-align: center;">
+    <p>Supervisor: {{ project.supervisor }}</p>
+  </div>
+</div>
+{% endfor %}

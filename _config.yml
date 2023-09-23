@@ -1,4 +1,4 @@
 url: "https://mechatronicsystems-group.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
-title: "MechatronicSystems.Group - UCT" # the name of your site, e.g. ACME Corp.
-description: "a mechatronics engineering research group in dept. mech. eng., UCT "
+title: "MechatronicSystems.Group" # the name of your site, e.g. ACME Corp.
+description: "a mechatronics engineering research group in the dept. mech. eng., UCT "

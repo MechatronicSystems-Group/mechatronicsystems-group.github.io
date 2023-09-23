@@ -1,9 +1,19 @@
 <footer class="pt-5 my-5 text-muted border-top">
   <div class="row">
-    <div class="col-md-6 text-end social-media-icons">
+    <div class="col-md-6">
+      <a href="{{ site.github.url }}/" class="d-flex align-items-center text-decoration-none">
+        <img src="{{ site.github.url }}/assets/img/logos/MSG_Logo_1_black_text.png" alt="Home" width="30%">
+      </a>
+    </div>
+    <div class="col-md-6 text-end social-media-icons" style="display: block; margin-left: auto ; margin-right: 0; margin-top: auto ;margin-bottom: auto ;">
       {% for item in site.data.settings.social %}
-        <a href="{{ item.link }}" class="ms-3 fs-5"><i class="fab fa-{{ item.icon }}"></i></a>
+        <a href="{{ item.link }}" class="ms-3 fs-5" ><i class="fab fa-{{ item.icon }}"></i></a>
       {% endfor %}
     </div>
+  </div>
+  <div style="display: flex; justify-content: center;">
+    <a href="{{ site.github.url }}/" class="d-flex align-items-center text-decoration-none">
+      <span>{{ site.description }}</span>
+    </a>
   </div>
 </footer>

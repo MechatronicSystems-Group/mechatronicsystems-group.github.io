@@ -1,17 +1,17 @@
 ---
 layout: page
-title: "Lab Technician"
+title: "Leanne Raw"
 ---
 
-Researcher - Physics & Astronomy
+Researcher - Robotics
 
-Some University - 1 Main Street, Canada
+University of Cape Town, Mechanical Engineering
 
-Phone: (000) 000-0000
+Phone: 
 
-Email: hello@university.edu
+Email: leanne.raw@uct.ac.za
 
-Office: Science Building 505
+Office: 
 
 ---
 

@@ -1,25 +1,23 @@
 menu:
 - {name: 'people', url: '/people'}
 - {name: 'publications', url: '/publications'}
-- {name: 'courses', url: '/courses'}
-- {name: 'cv', url: '/cv'}
+- {name: 'projects', url: '/projects'}
 - {name: 'contact', url: '/contact'}
 
 people:
-- {name: 'Arnold Pretorius', title: 'Researcher - Control Engineering, State Estimation, Robotics', department: 'Mechanical Engineering, institution: 'UCT', phone: '', email: 'arnold.pretorius@uct.ac.za', office: 'R215.2 EM Building, UCT', image: 'assets/img/Arnold.png', url: 'arnold-pretorius'}
-- {name: 'Leanne Raw', title: 'Researcher - Robotics', department: 'Mechanical Engineering, institution: 'UCT', phone: '', email: 'leanne.raw@uct.ac.za', office: 'R212 EM Building, UCT', image: 'assets/img/Leanne.png', url: 'leanne-raw'}
-- {name: 'Arnold Pretorius', title: 'Researcher - Embedded Systems, Instrumentation', department: 'Mechanical Engineering, institution: 'UCT', phone: '+27 21 650 4810', email: 'james.hepworth@uct.ac.za', office: 'R215.3 EM Building, UCT', image: 'assets/img/James.png', url: 'james-hepworth'}
+- {name: 'Arnold Pretorius', title: 'Researcher - Control Engineering, State Estimation, Robotics', department: 'Mechanical Engineering', institution: 'UCT', phone: '', email: 'arnold.pretorius@uct.ac.za', office: 'R215.2 EM Building, UCT', image: 'assets/img/Arnold.png', url: 'arnold-pretorius'}
+- {name: 'Leanne Raw', title: 'Researcher - Robotics', department: 'Mechanical Engineering', institution: 'UCT', phone: '', email: 'leanne.raw@uct.ac.za', office: 'R212 EM Building, UCT', image: 'assets/img/Leanne.png', url: 'leanne-raw'}
+- {name: 'James Hepworth', title: 'Researcher - Embedded Systems, Instrumentation', department: 'Mechanical Engineering', institution: 'UCT', phone: '+27 21 650 4810', email: 'james.hepworth@uct.ac.za', office: 'R215.3 EM Building, UCT', image: 'assets/img/James.png', url: 'james-hepworth'}
 
-courses:
+projects:
 - {name: 'Vector Calculus', url: 'vector-calculus'}
 - {name: 'Quantum Mechanics', url: 'quantum-mechanics'}
 - {name: 'Stellar Structures', url: 'stellar-structures'}
 
 social:
-- {icon: 'github', link: 'https://github.com/LeNPaul'}
-- {icon: 'twitter', link: 'https://twitter.com/paululele'}
-- {icon: 'instagram', link: 'https://instagram.com/paululele'}
-- {icon: 'linkedin', link: 'https://linkedin.com/in/lenpaul'}
+- {icon: 'github', link: 'https://github.com/MechatronicSystems-Group'}
+- {icon: 'twitter', link: 'https://twitter.com/'}
+- {icon: 'instagram', link: 'https://instagram.com/'}
 
 contacts:
 - {name: 'Dr. Academia', title: 'Professor', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/contact.jpg'}

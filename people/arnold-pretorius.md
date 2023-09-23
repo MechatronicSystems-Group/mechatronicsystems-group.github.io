@@ -1,17 +1,18 @@
 ---
 layout: page
-title: "Primary Investigator"
+title: "Arnold Pretorius"
 ---
 
-Researcher - Physics & Astronomy
+Researcher - Control Engineering, State Estimation, Robotics
 
-Some University - 1 Main Street, Canada
+University of Cape Town, Mechanical Engineering
 
-Phone: (000) 000-0000
+Phone: 
 
-Email: hello@university.edu
+Email: arnold.pretorius@uct.ac.za
 
-Office: Science Building 505
+Office: Room 215.2, Electrical and Mechanical Engineering, Upper Campus
+
 
 ---
 

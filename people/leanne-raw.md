@@ -1,7 +1,7 @@
 ---
 layout: person
 title: "Leanne Raw"
-image: "assets/img/people/Arnold.png"
+image: "assets/img/people/Leanne.png"
 ---
 
 Researcher - Robotics

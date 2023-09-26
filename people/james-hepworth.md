@@ -1,6 +1,7 @@
 ---
-layout: page
+layout: person
 title: "James Hepworth"
+image: "assets/img/people/James.png"
 ---
 
 Researcher - Instrumentation, Embedded Systems, Spatial Data Analyis

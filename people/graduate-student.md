@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Graduate Student"
+image: "assets/img/people/.png"
 ---
 
 Researcher - Physics & Astronomy

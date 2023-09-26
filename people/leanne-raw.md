@@ -1,17 +1,18 @@
 ---
 layout: page
 title: "Leanne Raw"
+image: "assets/img/people/Arnold.png"
 ---
 
 Researcher - Robotics
 
 University of Cape Town, Mechanical Engineering
 
-Phone: 
+Phone: +27 21 650 9111
 
 Email: leanne.raw@uct.ac.za
 
-Office: 
+Office: Room 212, Electrical and Mechanical Engineering, Upper Campus
 
 ---
 

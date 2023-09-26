@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: person
 title: "Leanne Raw"
 image: "assets/img/people/Arnold.png"
 ---

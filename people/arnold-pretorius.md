@@ -8,7 +8,7 @@ Researcher - Control Engineering, State Estimation, Robotics
 
 University of Cape Town, Mechanical Engineering
 
-Phone: +27 21 650 9111
+Phone: +27 21 650 3479
 
 Email: arnold.pretorius@uct.ac.za
 

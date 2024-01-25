@@ -6,7 +6,7 @@ title: "Design of a low-cost, vision-based motion capture system for estimating 
 <div style="display: flex; justify-content: center;">
   <figure style="text-align: center;">
     <img src="/projects/motion-capture/motion-capture.jpeg" alt="Vision-based motion capture system" width="60%">
-    <figcaption>Pole climbing robot</figcaption>
+    <figcaption>Vision-based motion capture system</figcaption>
   </figure>
 </div>
 <!-- Space after image -->

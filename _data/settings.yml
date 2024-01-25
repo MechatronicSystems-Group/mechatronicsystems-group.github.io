@@ -12,7 +12,7 @@ people:
 
 projects:
 - {name: 'Jominy End Quench Imaging', url: 'jominy-quench', status: 'In progress'}
-- {name: 'SEM Hot Stage Design', url: 'sem-hot-stage', status: 'In progress'}
+- {name: 'SEM Hot Stage Design', url: 'sem-hot-stage', status: 'Open for applications'}
 - {name: 'Antarctic Wind Sensor Design', url: 'wind-sensor', status: 'In progress'}
 - {name: 'Sea-Ice Field Extraction', url: 'sea-ice-LiDAR', status: 'In progress'}
 - {name: 'Low-cost Quadcopter Design', url: 'low-cost-quad', status: 'In progress'}

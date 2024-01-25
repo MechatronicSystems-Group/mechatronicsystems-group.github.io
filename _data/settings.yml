@@ -18,10 +18,10 @@ projects:
 - {name: 'System Identification and Control Design of a Quadcopter', url: 'low-cost-quad', status: 'In progress'}
 - {name: 'Embedded Systems Design of a Quadcopter', url: 'flight-controller', status: 'In progress'}
 - {name: 'Pose Estimation and Trajectory Generation of a Quadcopter', url: 'quad-pose', status: 'In progress'}
-- {name: 'Mechanical design and implementation of a pole climbing robot for rapid surveillance', url: 'quad-pose', status: 'In progress'}
-- {name: 'Design of a low-cost, vision-based motion capture system for use in rigid-body pose estimation', url: 'quad-pose', status: 'In progress'}
-- {name: 'Modelling, design, and prototyping of a coaxial variable-tilt multicopter', url: 'quad-pose', status: 'In progress'}
-- {name: 'Autonomous landing of a quadcopter platform on a sea vessel during rough sea state conditions', url: 'quad-pose', status: 'In progress'}
+- {name: 'Mechanical design and implementation of a pole climbing robot for rapid surveillance', url: 'pole-robot', status: 'In progress'}
+- {name: 'Design of a low-cost, vision-based motion capture system for use in rigid-body pose estimation', url: 'motion-capture', status: 'In progress'}
+- {name: 'Modelling, design, and prototyping of a coaxial variable-tilt multicopter', url: 'tilt-rotor', status: 'In progress'}
+- {name: 'Autonomous landing of a quadcopter platform on a sea vessel during rough sea state conditions', url: 'quad-sea', status: 'In progress'}
 
 social:
 - {icon: 'github', link: 'https://github.com/MechatronicSystems-Group'}

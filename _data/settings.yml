@@ -29,4 +29,5 @@ social:
 - {icon: 'instagram', link: 'https://instagram.com/'}
 
 contacts:
-- {name: 'MechatronicSystems.Lab',  department: 'Mechanical Engineering', institution: 'University of Cape Town', institution_address: 'MechatronicSystems.Lab, Duncan McMillan Laboratory, 217 Library Road, Rondebosch, Cape Town, 7700', phone: '+27 21 650 4810', email: 'mmtstream@uct.ac.za'}
+- {name: 'MechatronicSystems.Lab',  department: 'Mechanical Engineering', institution: 'University of Cape Town', institution_address: 'MechatronicSystems.Lab, Duncan McMillan Laboratory, 217 Library Road, Rondebosch, Cape Town, 7700', phone: '+27 21 650 4810', email: 'mechatronicsystems.group@uct.ac.za'}
+

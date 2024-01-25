@@ -2,16 +2,25 @@
 layout: page
 title: "Mechanical design and implementation of a pole climbing robot for rapid surveillance"
 ---
-
+<!-- add image here -->
+<div style="display: flex; justify-content: center;">
+  <figure style="text-align: center;">
+    <img src="/projects/pole-robot/pole-robot.jpg" alt="Pole climbing robot" width="60%">
+    <figcaption>Pole climbing robot</figcaption>
+  </figure>
+</div>
+<!-- Space after image -->
+<br><br>
 
 <!-- Body-->
 ###### Description
 
-This project entails designing a low-cost flight control system for a quadcopter. The solution should comprise of a central microcontroller, radio telemetry, and other on-board sensors relating to navigating and stabilising the quadcopter while in flight, in the form of a manufactured PCB. The student will develop a communication routine between the quadcopter and base station, as well as design a base station graphical user interface that can be used to visualize flight data and also adjust high-level flight parameters. The proposed solutions will initially be implemented in a simulation environment and ratified, using hardware in the loop testing, prior to its execution on a physical quadcopter.
+Due to the high prevalence and unpredictability of violent protest action in South Africa, a need has arisen for rapidly deployable surveillance. This project proposes an Automated Robotic Guardian for Urban Surveillance (ARGUS) platform, a wheeled pole-climbing robot, as a potential solution. The platform is designed to attach to and traverse up existing cylindrically shaped infrastructure, such as light posts, enabling easy deployment in urban environments. The robot is intended for various surveillance needs, such as public safety at events and periods of unrest or protest. 
+
 
 ###### Key skills/interests:
 
-Analogue electronics, embedded systems design, communications design, programming (C++/Python/MATLAB)
+Mechanical modelling and design, mathematical modelling, finite element analysis
 
 ###### Expected outputs:
 
@@ -19,4 +28,4 @@ Analogue electronics, embedded systems design, communications design, programmin
 
 ###### Supervisors: 
 
-Arnold Pretorius, James Hepworth, and Natasha Botha
+Arnold Pretorius, Stephen Marais, and Peter Bosscha

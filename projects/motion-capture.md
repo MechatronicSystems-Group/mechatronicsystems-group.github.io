@@ -2,6 +2,15 @@
 layout: page
 title: "Design of a low-cost, vision-based motion capture system for estimating the pose of rigid-body platforms"
 ---
+<!-- add image here -->
+<div style="display: flex; justify-content: center;">
+  <figure style="text-align: center;">
+    <img src="/projects/motion-capture/motion-capture.jpeg" alt="Vision-based motion capture system" width="60%">
+    <figcaption>Pole climbing robot</figcaption>
+  </figure>
+</div>
+<!-- Space after image -->
+<br><br>
 
 <!-- Body-->
 ###### Description

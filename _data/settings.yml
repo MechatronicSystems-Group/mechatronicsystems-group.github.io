@@ -11,13 +11,13 @@ people:
 - {name: 'James Hepworth', title: 'Researcher - Embedded Systems, Instrumentation', department: 'Mechanical Engineering', institution: 'UCT', phone: '+27 21 650 4810', email: 'james.hepworth@uct.ac.za', office: 'R215.3 EM Building, UCT', image: 'assets/img/people/James.png', url: 'james-hepworth'}
 
 projects:
-- {name: 'Jominy End Quench Imaging', url: 'jominy-quench', supervisor: 'James Hepworth'}
-- {name: 'SEM Hot Stage Design', url: 'sem-hot-stage', supervisor: 'James Hepworth'}
-- {name: 'Antarctic Wind Sensor Design', url: 'wind-sensor', supervisor: 'James Hepworth'}
-- {name: 'Sea-Ice Field Extraction', url: 'sea-ice-LiDAR', supervisor: 'James Hepworth'}
-- {name: 'Low-cost Quadcopter Design', url: 'low-cost-quad', supervisor: 'Arnold Pretorius'}
-- {name: 'Flight Controller Design', url: 'flight-controller', supervisor: 'Arnold Pretorius'}
-- {name: 'Quadcopter Pose Estimation', url: 'quad-pose', supervisor: 'Arnold Pretorius'}
+- {name: 'Jominy End Quench Imaging', url: 'jominy-quench', status: 'Available'}
+- {name: 'SEM Hot Stage Design', url: 'sem-hot-stage', status: 'Available'}
+- {name: 'Antarctic Wind Sensor Design', url: 'wind-sensor', status: 'In progress'}
+- {name: 'Sea-Ice Field Extraction', url: 'sea-ice-LiDAR', status: 'Available'}
+- {name: 'Low-cost Quadcopter Design', url: 'low-cost-quad', status: 'In progress'}
+- {name: 'Flight Controller Design', url: 'flight-controller', status: 'In progress'}
+- {name: 'Quadcopter Pose Estimation', url: 'quad-pose', status: 'In progress'}
 
 social:
 - {icon: 'github', link: 'https://github.com/MechatronicSystems-Group'}

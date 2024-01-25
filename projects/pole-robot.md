@@ -2,15 +2,7 @@
 layout: page
 title: "Mechanical design and implementation of a pole climbing robot for rapid surveillance"
 ---
-<!-- add image here -->
-<div style="display: flex; justify-content: center;">
-  <figure style="text-align: center;">
-    <img src="/projects/flight-controller/pixhawk.png" alt="Flight controller" width="60%">
-    <figcaption>Example of a UAV flight control solution</figcaption>
-  </figure>
-</div>
-<!-- Space after image -->
-<br><br>
+
 
 <!-- Body-->
 ###### Description

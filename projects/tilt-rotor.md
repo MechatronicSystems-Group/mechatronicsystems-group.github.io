@@ -3,6 +3,16 @@ layout: page
 title: "Modelling, design, and prototyping of a coaxial variable-tilt multicopter"
 ---
 
+<!-- add image here -->
+<div style="display: flex; justify-content: center;">
+  <figure style="text-align: center;">
+    <img src="/projects/tilt-rotor/tilt-rotor.png" alt="Tiltrotor UAV" width="60%">
+    <figcaption>CAD render of tiltrotor UAV</figcaption>
+  </figure>
+</div>
+<!-- Space after image -->
+<br><br>
+
 <!-- Body-->
 ###### Description
 

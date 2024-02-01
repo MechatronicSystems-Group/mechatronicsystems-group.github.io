@@ -20,10 +20,6 @@ students:
 - {name: 'Daniel Fraser', title: '1st-year MSc Student', department: 'Mechanical Engineering', institution: 'UCT', url: 'flight-controller'}
 
 projects:
-- {name: 'Jominy End Quench Imaging', url: 'jominy-quench', status: 'In progress', student: '?', studentType: 'MSc student'}
-- {name: 'SEM Hot Stage Design', url: 'sem-hot-stage', status: 'Open for applications', student: '?', studentType: 'MSc student'}
-- {name: 'Antarctic Wind Sensor Design', url: 'wind-sensor', status: 'In progress', student: '?', studentType: 'MSc student'}
-- {name: 'Sea-Ice Field Extraction', url: 'sea-ice-LiDAR', status: 'In progress', student: '?', studentType: 'MSc student'}
 - {name: 'System Identification and Control Design of a Quadcopter', url: 'low-cost-quad', status: 'In progress', student: 'Luke Richardson', studentType: 'MSc student'}
 - {name: 'Embedded Systems Design of a Quadcopter', url: 'flight-controller', status: 'In progress', student: 'Daniel Fraser', studentType: 'MSc student'}
 - {name: 'Pose Estimation and Trajectory Generation of a Quadcopter', url: 'quad-pose', status: 'In progress', student: 'Alyssa Ramwell', studentType: 'MSc student'}
@@ -31,6 +27,10 @@ projects:
 - {name: 'Design of a low-cost, vision-based motion capture system for use in rigid-body pose estimation', url: 'motion-capture', status: 'In progress', student: 'Zak Meyer', studentType: 'MSc student'}
 - {name: 'Modelling, design, and prototyping of a coaxial variable-tilt multicopter', url: 'tilt-rotor', status: 'In progress', student: 'Guy Hasewinkel', studentType: 'MSc student'}
 - {name: 'Autonomous landing of a quadcopter platform on a sea vessel during rough sea state conditions', url: 'quad-sea', status: 'In progress', student: 'Dylan Fanner', studentType: 'MSc student'}
+- {name: 'Jominy End Quench Imaging', url: 'jominy-quench', status: 'Open for applications', student: 'TBD', studentType: 'MSc student'}
+- {name: 'SEM Hot Stage Design', url: 'sem-hot-stage', status: 'Open for applications', student: 'TBD', studentType: 'MSc student'}
+- {name: 'Antarctic Wind Sensor Design', url: 'wind-sensor', status: 'Open for applications', student: 'TBD', studentType: 'MSc student'}
+- {name: 'Sea-Ice Field Extraction', url: 'sea-ice-LiDAR', status: 'Open for applications', student: 'TBD', studentType: 'MSc student'}
 
 social:
 - {icon: 'github', link: 'https://github.com/MechatronicSystems-Group'}

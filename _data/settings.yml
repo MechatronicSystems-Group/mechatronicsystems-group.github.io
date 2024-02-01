@@ -11,13 +11,13 @@ staff:
 - {name: 'James Hepworth', title: 'Researcher - Embedded Systems, Instrumentation', department: 'Mechanical Engineering', institution: 'UCT', phone: '+27 21 650 4810', email: 'james.hepworth@uct.ac.za', office: 'R215.3 EM Building, UCT', image: 'assets/img/people/James.png', url: 'james-hepworth'}
 
 students:
-- {name: 'Zak Meyer', title: '3rd-year MSc Student', department: 'Mechanical Engineering', institution: 'UCT'}
-- {name: 'Willis de Ronde', title: '3rd-year MSc Student', department: 'Mechanical Engineering', institution: 'UCT'}
-- {name: 'Guy Hasewinkel', title: '2nd-year MSc Student', department: 'Mechanical Engineering', institution: 'UCT'}
-- {name: 'Dylan Fanner', title: '1st-year MSc Student', department: 'Mechanical Engineering', institution: 'UCT'}
-- {name: 'Luke Richardson', title: '1st-year MSc Student', department: 'Mechanical Engineering', institution: 'UCT'}
-- {name: 'Alyssa Ramwell', title: '1st-year MSc Student', department: 'Mechanical Engineering', institution: 'UCT'}
-- {name: 'Daniel Fraser', title: '1st-year MSc Student', department: 'Mechanical Engineering', institution: 'UCT'}
+- {name: 'Zak Meyer', title: '3rd-year MSc Student', department: 'Mechanical Engineering', institution: 'UCT', url: 'motion-capture'}
+- {name: 'Willis de Ronde', title: '3rd-year MSc Student', department: 'Mechanical Engineering', institution: 'UCT', url: 'pole-robot'}
+- {name: 'Guy Hasewinkel', title: '2nd-year MSc Student', department: 'Mechanical Engineering', institution: 'UCT', url: 'tilt-rotor'}
+- {name: 'Dylan Fanner', title: '1st-year MSc Student', department: 'Mechanical Engineering', institution: 'UCT', url: 'quad-sea'}
+- {name: 'Luke Richardson', title: '1st-year MSc Student', department: 'Mechanical Engineering', institution: 'UCT', url: 'low-cost-quad'}
+- {name: 'Alyssa Ramwell', title: '1st-year MSc Student', department: 'Mechanical Engineering', institution: 'UCT', url: 'quad-pose'}
+- {name: 'Daniel Fraser', title: '1st-year MSc Student', department: 'Mechanical Engineering', institution: 'UCT', url: 'flight-controller'}
 
 projects:
 - {name: 'Jominy End Quench Imaging', url: 'jominy-quench', status: 'In progress'}

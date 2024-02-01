@@ -11,9 +11,9 @@ staff:
 - {name: 'James Hepworth', title: 'Researcher - Embedded Systems, Instrumentation', department: 'Mechanical Engineering', institution: 'UCT', phone: '+27 21 650 4810', email: 'james.hepworth@uct.ac.za', office: 'R215.3 EM Building, UCT', image: 'assets/img/people/James.png', url: 'james-hepworth'}
 
 students:
-- {name: 'ABC', title: 'MSc Student', department: 'Mechanical Engineering', institution: 'UCT'}
-- {name: 'DEF', title: 'MSc Student', department: 'Mechanical Engineering', institution: 'UCT'}
-- {name: 'GHI', title: 'MSc Student', department: 'Mechanical Engineering', institution: 'UCT'}
+- {name: 'Zak Meyer', title: 'MSc Student', department: 'Mechanical Engineering', institution: 'UCT'}
+- {name: 'Willis de Ronde', title: 'MSc Student', department: 'Mechanical Engineering', institution: 'UCT'}
+- {name: 'Guy Hasewinkel', title: 'MSc Student', department: 'Mechanical Engineering', institution: 'UCT'}
 
 projects:
 - {name: 'Jominy End Quench Imaging', url: 'jominy-quench', status: 'In progress'}

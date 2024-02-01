@@ -24,7 +24,7 @@ projects:
 - {name: 'SEM Hot Stage Design', url: 'sem-hot-stage', status: 'Open for applications', student: '?'}
 - {name: 'Antarctic Wind Sensor Design', url: 'wind-sensor', status: 'In progress', student: '?'}
 - {name: 'Sea-Ice Field Extraction', url: 'sea-ice-LiDAR', status: 'In progress', student: '?'}
-- {name: 'System Identification and Control Design of a Quadcopter', url: 'low-cost-quad', status: 'In progress', student'Luke Richardson'}
+- {name: 'System Identification and Control Design of a Quadcopter', url: 'low-cost-quad', status: 'In progress', student: 'Luke Richardson'}
 - {name: 'Embedded Systems Design of a Quadcopter', url: 'flight-controller', status: 'In progress', student: 'Daniel Fraser'}
 - {name: 'Pose Estimation and Trajectory Generation of a Quadcopter', url: 'quad-pose', status: 'In progress', student: 'Alyssa Ramwell'}
 - {name: 'Mechanical design and implementation of a pole climbing robot for rapid surveillance', url: 'pole-robot', status: 'In progress', student: 'Willis de Ronde'}

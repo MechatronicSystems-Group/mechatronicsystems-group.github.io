@@ -12,7 +12,7 @@ staff:
 
 students:
 - {name: 'Zak Meyer', title: '3rd-year MSc Student', department: 'Mechanical Engineering', institution: 'UCT'}
-- {name: 'Willis de Ronde', title: '3rd-yaer MSc Student', department: 'Mechanical Engineering', institution: 'UCT'}
+- {name: 'Willis de Ronde', title: '3rd-year MSc Student', department: 'Mechanical Engineering', institution: 'UCT'}
 - {name: 'Guy Hasewinkel', title: '2nd-year MSc Student', department: 'Mechanical Engineering', institution: 'UCT'}
 - {name: 'Dylan Fanner', title: '1st-year MSc Student', department: 'Mechanical Engineering', institution: 'UCT'}
 - {name: 'Luke Richardson', title: '1st-year MSc Student', department: 'Mechanical Engineering', institution: 'UCT'}

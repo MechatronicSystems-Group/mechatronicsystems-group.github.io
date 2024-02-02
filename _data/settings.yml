@@ -10,15 +10,6 @@ staff:
 - {name: 'Leanne Raw', title: 'Researcher - Robotics', department: 'Mechanical Engineering', institution: 'UCT', phone: '+27 21 650 9111', email: 'leanne.raw@uct.ac.za', office: 'R212 EM Building, UCT', image: 'assets/img/people/Leanne.png', url: 'leanne-raw'}
 - {name: 'James Hepworth', title: 'Researcher - Embedded Systems, Instrumentation', department: 'Mechanical Engineering', institution: 'UCT', phone: '+27 21 650 4810', email: 'james.hepworth@uct.ac.za', office: 'R215.3 EM Building, UCT', image: 'assets/img/people/James.png', url: 'james-hepworth'}
 
-students:
-- {name: 'Zak Meyer', title: '3rd-year MSc Student', department: 'Mechanical Engineering', institution: 'UCT', url: 'motion-capture'}
-- {name: 'Willis de Ronde', title: '3rd-year MSc Student', department: 'Mechanical Engineering', institution: 'UCT', url: 'pole-robot'}
-- {name: 'Guy Hasewinkel', title: '2nd-year MSc Student', department: 'Mechanical Engineering', institution: 'UCT', url: 'tilt-rotor'}
-- {name: 'Dylan Fanner', title: '1st-year MSc Student', department: 'Mechanical Engineering', institution: 'UCT', url: 'quad-sea'}
-- {name: 'Luke Richardson', title: '1st-year MSc Student', department: 'Mechanical Engineering', institution: 'UCT', url: 'low-cost-quad'}
-- {name: 'Alyssa Ramwell', title: '1st-year MSc Student', department: 'Mechanical Engineering', institution: 'UCT', url: 'quad-pose'}
-- {name: 'Daniel Fraser', title: '1st-year MSc Student', department: 'Mechanical Engineering', institution: 'UCT', url: 'flight-controller'}
-
 projects:
 - {name: 'System Identification and Control Design of a Quadcopter', url: 'low-cost-quad', status: 'In progress', student: 'Luke Richardson', studentType: 'MSc student'}
 - {name: 'Embedded Systems Design of a Quadcopter', url: 'flight-controller', status: 'In progress', student: 'Daniel Fraser', studentType: 'MSc student'}

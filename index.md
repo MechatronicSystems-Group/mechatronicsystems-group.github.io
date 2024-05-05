@@ -3,4 +3,5 @@ layout: home
 title: "Home"
 ---
 
-Our group focuses on the study and development of innovative solutions that integrate mechanical engineering, electronics, control systems, and computer science. We aim to design and create robust solution and processes that enhance efficiency and productivity. Our research areas include robotics, instrumentaion, embedded systems, and optimisation. We focus on real-world applications in industries such as aerial robotics, manufacturing, and climate science.
+Our research group focuses on the modelling, design and realisation of complex mechatronic systems. The electromechanical nature of these systems requires an intimate knowledge of integrating hardware (mechanical and electrical), software and control systems into a cohesive whole.
+A typical mechatronics project will involve: CAD design and simulation; software and hardware design; hardware-in-the-loop testing; and systems integration and implementation. Our specialisations lie in mobile robotics (wheeled, legged, aerial, marine), robust control design, inertial stabilisation, and embedded systems.

@@ -7,7 +7,7 @@
     </div>
     <div class="col-md-6 text-end social-media-icons" style="display: block; margin-left: auto ; margin-right: 0; margin-top: auto ;margin-bottom: auto ;">
       {% for item in site.data.settings.funders %}
-        <a href="{{ item.link }}" class="ms-3 fs-5" ><i class="fab fa-{{ item.icon }}"></i></a>
+        <img src="{{ site.github.url }}/{{ funders.image }}" alt="Contact" style="margin: auto;" width="30%">
       {% endfor %}
     </div>
   </div>

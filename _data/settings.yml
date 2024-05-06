@@ -23,10 +23,9 @@ projects:
 - {name: 'Antarctic Wind Sensor Design', url: 'wind-sensor', status: 'Open for applications', student: 'TBD', studentType: 'MSc student'}
 - {name: 'Sea-Ice Field Extraction', url: 'sea-ice-LiDAR', status: 'Open for applications', student: 'TBD', studentType: 'MSc student'}
 
-social:
-- {icon: 'github', link: 'https://github.com/MechatronicSystems-Group'}
-- {icon: 'twitter', link: 'https://twitter.com/'}
-- {icon: 'instagram', link: 'https://instagram.com/'}
+funders:
+- {image: 'assets/img/logos/csir.jpeg', link: 'https://www.csir.co.za/'}
+- {image: 'assets/img/logos/SAIMI.jpg', link: 'https://saimi.co.za/'}
 
 contacts:
 - {name: 'MechatronicSystems.Lab',  department: 'Mechanical Engineering', institution: 'University of Cape Town', institution_address: 'MechatronicSystems.Lab, Duncan McMillan Laboratory, 217 Library Road, Rondebosch, Cape Town, 7700', phone: '+27 21 650 4810', email: 'mechatronicsystems.group@uct.ac.za'}

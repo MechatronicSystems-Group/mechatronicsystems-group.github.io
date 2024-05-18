@@ -5,10 +5,10 @@
         <img src="{{ site.github.url }}/assets/img/logos/MSG_Logo_1_black_text.png" alt="Home" width="30%">
       </a>
     </div>
-    <div class="col-md-6 text-end social-media-icons" style="display: flex; align-items: center;">
-      <p style="margin: 0;">Proudly sponsored by:</p>
+    <div class="col-md-6 text-end social-media-icons" style="display: flex; align-items: center; justify-content: flex-end;">
+      <p style="margin: 0; margin-right: 10px;">Proudly sponsored by:</p>
       {% for item in site.data.settings.funders %}
-        <img src="{{ site.github.url }}/{{ item.image }}" alt="Contact" style="margin-right: 20px; margin-bottom: 0;" width="20%">
+        <img src="{{ site.github.url }}/{{ item.image }}" alt="Contact" style="margin-right: 10px; margin-bottom: 0;" width="20%">
       {% endfor %}
     </div>
   </div>

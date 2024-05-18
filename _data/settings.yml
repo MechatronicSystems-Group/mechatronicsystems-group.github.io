@@ -1,7 +1,8 @@
 menu:
 - {name: 'people', url: '/people'}
 - {name: 'publications', url: '/publications'}
-- {name: 'projects', url: '/projects'}
+- {name: 'vac work', url: '/projects'}
+- {name: 'research', url: '/projects'}
 - {name: 'code', url: 'https://github.com/MechatronicSystems-Group'}
 - {name: 'contact', url: '/contact'}
 

@@ -30,6 +30,7 @@ vacwork_projects:
 - {name: 'Design and assembly of a flight test space for small UAVs', url: 'flight-test-space', status: 'Open for applications', student: 'TBD', studentType: 'Vac work student'}
 - {name: 'Design and assembly of a Stewart platform', url: 'stewart-platform', status: 'Open for applications', student: 'TBD', studentType: 'Vac work student'}
 - {name: 'Investigating the efficacy of OpenMV cameras for use in pose estimation', url: 'openmv-camera-pose-estimation', status: 'Open for applications', student: 'TBD', studentType: 'Vac work student'}
+- {name: 'Mechanical design and prototyping of a micro UAV', url: 'micro-uav', status: 'Open for applications', student: 'TBD', studentType: 'Vac work student'}
 
 funders:
 - {image: 'assets/img/logos/csir.jpeg', link: 'https://www.csir.co.za/'}

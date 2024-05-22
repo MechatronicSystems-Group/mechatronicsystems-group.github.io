@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Propulsion rig"
+title: "Software and user interface design for a propulsion rig"
 ---
 
 One of the present research focuses within the MechatronicSystems.Group is unmanned aerial vehicles (UAVs). To this end, a rotor thrust rig is required, in order to develop a better understanding of the static and dynamic capabilities of various UAV propulsion systems. For example, a quadcopter makes use of a motor-propeller subsystem in order to develop the necessary thrust and torques.

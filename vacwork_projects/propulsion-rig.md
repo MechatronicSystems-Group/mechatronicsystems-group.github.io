@@ -3,11 +3,12 @@ One of the present research focuses within the MechatronicSystems.Group is unman
 The thrust rig must be able to measure thrust (using a load cell sensor), motor speed, and current. The measured data must then be displayable in quasi-real-time on a PC via a GUI, and also logged for offline data analysis purposes.
 
 This project will require the student(s) to research, design, construct, and test a thrust rig. This will include:
-
--Researching current solutions
--Detailed CAD design of the physical structure
--Instrumentation selection and integration 
--Design of communications, GUI, and logging capabilities on PC.
--Preliminary testing of the system
+<ul>
+  <li>Researching current solutions</li>
+  <li>Detailed CAD design of the physical structure</li>
+  <li>Instrumentation selection and integration</li>
+  <li>Design of communications, GUI, and logging capabilities on PC</li>
+  <li>Preliminary testing of the system</li>
+</ul>
 
 The ideal candidate(s) will have strong CAD and instrumentation ability, whilst also requiring good knowledge of embedded systems and programming.

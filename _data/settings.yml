@@ -26,6 +26,10 @@ projects:
 
 vacwork_projects:
 - {name: 'Software and user interface design for a propulsion rig', url: 'propulsion-rig', status: 'In progress', student: 'Michael Thomson', studentType: 'Vac work student'}
+- {name: 'Design and prototyping of a UAV attitude test rig', url: 'attitude-test-rig', status: 'Open for applications', student: 'TBD', studentType: 'Vac work student'}
+- {name: 'Design and assembly of a flight test space for small UAVs', url: 'flight-test-space', status: 'Open for applications', student: 'TBD', studentType: 'Vac work student'}
+- {name: 'Design and assembly of a Stewart platform', url: 'stewart-platform', status: 'Open for applications', student: 'TBD', studentType: 'Vac work student'}
+- {name: 'Investigating the efficacy of OpenMV cameras for use in pose estimation', url: 'openmv-camera-pose-estimation', status: 'Open for applications', student: 'TBD', studentType: 'Vac work student'}
 
 funders:
 - {image: 'assets/img/logos/csir.jpeg', link: 'https://www.csir.co.za/'}

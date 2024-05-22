@@ -1,3 +1,8 @@
+---
+layout: page
+title: "Propulsion rig"
+---
+
 One of the present research focuses within the MechatronicSystems.Group is unmanned aerial vehicles (UAVs). To this end, a rotor thrust rig is required, in order to develop a better understanding of the static and dynamic capabilities of various UAV propulsion systems. For example, a quadcopter makes use of a motor-propeller subsystem in order to develop the necessary thrust and torques.
 
 The thrust rig must be able to measure thrust (using a load cell sensor), motor speed, and current. The measured data must then be displayable in quasi-real-time on a PC via a GUI, and also logged for offline data analysis purposes.

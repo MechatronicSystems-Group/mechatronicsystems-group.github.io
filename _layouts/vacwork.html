@@ -2,16 +2,22 @@
 layout: default
 ---
 
+<style>
+  .no-wrap {
+    white-space: nowrap;
+  }
+</style>
+
 <h3 class="fw-bold pb-3 mb-5">Vac work projects</h3>
 
 {{ content }}
 <br><br>
 
-  {% for project in site.data.settings.vacwork_projects %}
+{% for project in site.data.settings.vacwork_projects %}
 <div class="row g-5 mb-5">
   <div class="col-md-6">
     <div class="col-md-6">
-      <p><a href="{{ site.github.url }}/vacwork_projects/{{ project.url}}">{{ project.name }}</a></p>
+      <p class="no-wrap"><a href="{{ site.github.url }}/vacwork_projects/{{ project.url }}">{{ project.name }}</a></p>
     </div>
   </div>
   <div class="col-md-6" style="text-align: left;">

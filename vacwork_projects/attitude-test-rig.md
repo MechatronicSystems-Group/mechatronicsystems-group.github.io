@@ -1,3 +1,5 @@
+Design and prototyping of a UAV attitude test rig
+
 One of the present research focuses within the MechatronicSystems.Group is unmanned aerial vehicles (UAVs). To this end, a UAV attitude rig is required to facilitate testing orientation controllers within a safe, constrained space. 
 
 The attitude rig must utilise a 3 degree-of-freedom gimbal that allows for roll, pitch, and yaw motion of the UAV. Additionally, the platform must be able to measure the orientation of the platform based on the gimbal orientation. The measured data must then be displayable in quasi-real-time on a PC via a GUI, and also logged for offline data analysis purposes.

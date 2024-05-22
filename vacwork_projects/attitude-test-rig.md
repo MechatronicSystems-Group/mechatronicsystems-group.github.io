@@ -1,4 +1,7 @@
-Design and prototyping of a UAV attitude test rig
+---
+layout: page
+title: "Design and prototyping of a UAV attitude test rig"
+---
 
 One of the present research focuses within the MechatronicSystems.Group is unmanned aerial vehicles (UAVs). To this end, a UAV attitude rig is required to facilitate testing orientation controllers within a safe, constrained space. 
 

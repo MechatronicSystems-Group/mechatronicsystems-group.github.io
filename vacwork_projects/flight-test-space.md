@@ -1,7 +1,6 @@
 ---
 layout: page
-title: "'Design and assembly of a flight test space for small UAVs'![image](https://github.com/MechatronicSystems-Group/mechatronicsystems-group.github.io/assets/105787234/a2eb25d0-be3d-423b-be38-5f58a255c09b)
-"
+title: "Design and assembly of a flight test space for small UAVs"
 ---
 
 One of the present research focuses within the MechatronicSystems.Group is unmanned aerial vehicles (UAVs). To this end, a flight test space is required to facilitate testing UAVs within a safe, constrained space. 

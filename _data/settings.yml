@@ -30,9 +30,10 @@ vacwork_projects:
 - {name: 'Design and assembly of a Stewart platform', url: 'stewart-platform', status: 'Open for applications', student: 'TBD', studentType: 'Vac work student'}
 - {name: 'Investigating the efficacy of OpenMV cameras for use in pose estimation', url: 'openmv-camera-pose-estimation', status: 'Open for applications', student: 'TBD', studentType: 'Vac work student'}
 - {name: 'Mechanical design and prototyping of a micro UAV', url: 'micro-uav', status: 'Open for applications', student: 'TBD', studentType: 'Vac work student'}
-- {name: 'Software and user interface design for a propulsion rig', url: 'propulsion-rig', status: 'In progress', student: 'Michael Thomson', studentType: 'Vac work student'}
+- {name: 'Investigating code deployment from MATLAB/Simulink using px4 software', url: 'px4-design', status: 'Open for applications', student: 'TBD', studentType: 'Vac work student'}
 - {name: 'Design of a 3D printer filament recycling system', url: '3d-printer-filament-recycling', status: 'Open for applications', student: 'TBD', studentType: 'Vac work student'}
 - {name: 'Firmware development for a BMI088 IMU', url: 'firmware-development-BMI088', status: 'Open for applications', student: 'TBD', studentType: 'Vac work student'}
+- {name: 'Software and user interface design for a propulsion rig', url: 'propulsion-rig', status: 'In progress', student: 'Michael Thomson', studentType: 'Vac work student'}
 
 funders:
 - {image: 'assets/img/logos/csir.jpeg', link: 'https://www.csir.co.za/'}

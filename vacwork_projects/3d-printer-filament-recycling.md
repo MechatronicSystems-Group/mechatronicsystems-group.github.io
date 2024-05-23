@@ -1,4 +1,7 @@
-# Design of a 3D printer filament recycling system
+---
+layout: page
+title: "Design of a 3D printer filament recycling system"
+---
 
 Fused Filament Fabrication (FFF)  is the most widely used technology within 3D printing. As part of the process of manufacture, various extrusions are made which do not form part of the finished part and are discarded as waste. These, in addition to failed parts, are recyclable and may be reformed into usable filament.
 

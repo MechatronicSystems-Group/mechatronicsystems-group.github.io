@@ -1,4 +1,7 @@
-# Firmware development for a BMI088 IMU
+---
+layout: page
+title: "Firmware development for a BMI088 IMU"
+---
 
 The BMI088 is a modern IMU commonly used in UAV applications. This project involves the development and testing of firmware for this IMU to be run on the STM32F4 microcontroller. This will include:
 

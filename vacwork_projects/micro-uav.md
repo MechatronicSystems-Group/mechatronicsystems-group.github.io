@@ -1,4 +1,3 @@
-
 ---
 layout: page
 title: "Mechanical design and prototyping of a micro UAV"

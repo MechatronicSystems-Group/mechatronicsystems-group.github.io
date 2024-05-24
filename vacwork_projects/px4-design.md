@@ -5,7 +5,7 @@ title: "Investigating code deployment from MATLAB/Simulink using PX4 software"
 
 One of the present research focuses within the MechatronicSystems.Group is unmanned aerial vehicles (UAVs). To this end, a micro-UAV drone is required to facilitate teaching and postgraduate onboarding.
 
-This project will focus on the software implementation of the quadcopter, which requires the use of opensource PX4 sofware. The intention is to develop flight control elements for the quadcopter using MATLAB/Simulink, and then porting the code automatically onto the flight controller using preexisting PX4 libraries.
+This project will focus on the software implementation of the quadcopter, which requires the use of opensource PX4 software. The intention is to develop flight control elements for the quadcopter using MATLAB/Simulink, and then porting the code automatically onto the flight controller using preexisting PX4 libraries.
 
 This project will require the student(s) to research, develop, and implement software that can allow for code generation from MATLAB/Simulink to the target flight controller hardware. This will include:
 

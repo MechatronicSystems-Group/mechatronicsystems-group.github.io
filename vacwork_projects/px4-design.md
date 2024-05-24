@@ -19,3 +19,4 @@ This project will require the student(s) to research, develop, and implement sof
 
 The ideal candidate(s) will have strong programming ability, with a predominant focus on MATLAB/Simulink development.
 
+Supervisor: Arnold Pretorius

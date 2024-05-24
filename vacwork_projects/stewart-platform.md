@@ -19,3 +19,4 @@ This project will require the student(s) to research, design, construct, and tes
 
 The ideal candidate(s) will have strong CAD and design ability, and also be comfortable with determining and using forward/inverse kinematics.
 
+Supervisor: Arnold Pretorius

@@ -18,3 +18,5 @@ This project will require the student(s) to research, design, construct, and tes
 </ul>
 
 The ideal candidate(s) will have strong CAD and design ability, and ideally also have some exposure to 3D printing.
+
+Supervisor: Arnold Pretorius

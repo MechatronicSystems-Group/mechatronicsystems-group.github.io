@@ -1,8 +1,6 @@
-
 ---
 layout: page
 title: "Design and assembly of a Stewart platform"
-"
 ---
 
 One of the present research focuses within the MechatronicSystems.Group is unmanned aerial vehicles (UAVs). To this end, a Stewart Platform is required to facilitate testing autonomous landing on a moving platform.

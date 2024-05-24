@@ -3,7 +3,7 @@ layout: page
 title: "Investigating the efficacy of OpenMV cameras for use in pose estimation"
 ---
 
-One of the present research focuses within the MechatronicSystems.Group is unmanned aerial vehicles (UAVs). To this end, our group is currently assessing the feasibility of low-cost cameras for use in pose estimation and control
+One of the present research focuses within the MechatronicSystems.Group is unmanned aerial vehicles (UAVs). To this end, our group is currently assessing the feasibility of low-cost cameras for use in pose estimation and control.
 
 This project will investigate using multiple OpenMV (or some other equivalent) cameras for use in estimating the pose of a rigid body, given known markers in the world. Specifically, April Tag identification, as well as arbitrary feature locking will form part of the project.
 

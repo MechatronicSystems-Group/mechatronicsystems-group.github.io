@@ -18,3 +18,5 @@ This project is likely to include:
 </ul>
 
 The ideal candidate(s) will have strong CAD and design ability, and ideally also have some exposure to 3D printing.
+
+Supervisor: Arnold Pretorius

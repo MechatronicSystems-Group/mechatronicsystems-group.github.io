@@ -17,3 +17,5 @@ This project will require the student(s) to research, design, construct, and tes
 </ul>
 
 The ideal candidate(s) will have strong CAD and instrumentation ability, whilst also requiring good knowledge of embedded systems and programming.
+
+Supervisor: Arnold Pretorius

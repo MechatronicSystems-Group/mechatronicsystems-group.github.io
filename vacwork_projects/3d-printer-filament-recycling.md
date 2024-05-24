@@ -13,3 +13,5 @@ Various open and closed source projects exist for this purpose including those f
 - Preliminary testing of the system
 
 The ideal candidate(s) will have strong CAD and design ability, and ideally also have some exposure to 3D printing and motor control.
+
+Supervisor: James Hepworth

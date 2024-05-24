@@ -11,3 +11,5 @@ The BMI088 is a modern IMU commonly used in UAV applications. This project invol
 - Preliminary testing
 
 The ideal candidate(s) will have strong programming and embedded systems abilities and a familiarity with git and GitHub.
+
+Supervisor: James Hepworth

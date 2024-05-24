@@ -3,19 +3,19 @@ layout: page
 title: "Investigating code deployment from MATLAB/Simulink using PX4 software"
 ---
 
-One of the present research focuses within the MechatronicSystems.Group is unmanned aerial vehicles (UAVs). To this end, a flight test space is required to facilitate testing UAVs within a safe, constrained space. 
+One of the present research focuses within the MechatronicSystems.Group is unmanned aerial vehicles (UAVs). To this end, a micro-UAV drone is required to facilitate teaching and postgraduate onboarding.
 
-The design is likely to include netting to prevent the UAV from exiting the designated flight space. Additionally, the flight space must incorporate the mounting of external sensors, such as cameras, and have consideration for wiring to a designated base station PC. The flight space will also require patterned flooring that can be used for calibration and vision-based testing.
+This project will focus on the software implementation of the quadcopter, which requires the use of opensource PX4 sofware. The intention is to develop flight control elements for the quadcopter using MATLAB/Simulink, and then porting the code automatically onto the flight controller using preexisting PX4 libraries.
 
-This project is likely to include:
+This project will require the student(s) to research, develop, and implement software that can allow for code generation from MATLAB/Simulink to the target flight controller hardware. This will include:
 
 <ul>
   <li>Researching current solutions</li>
-  <li>Development of a CAD render representing the admissable flight volume and setup</li>
-  <li>Sourcing and installation of netting and other mounting elements</li>
-  <li>Considerationg for adding external sensor and routing cables</li>
-  <li>Preliminary testing of the system</li>
+  <li>Develop software environment in MATLAB/Simulink to allow for adjust features of the flight controller</li>
+  <li>Establish streamlined pipeline to allow for code generation onto target flight controller hardware</li>
+  <li>Unit testing of software pipeline</li>
+  <li>Full systems testing on a quadcopter that is constrained to only rotate but not traverse</li>
 </ul>
 
-The ideal candidate(s) will have strong CAD and design ability, and ideally also have some exposure to 3D printing.
+The ideal candidate(s) will have strong programming ability, with a predominant focus on MATLAB/Simulink development.
 
